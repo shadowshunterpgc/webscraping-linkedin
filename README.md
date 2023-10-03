@@ -15,7 +15,7 @@ além de exibí-las na tela.
 
 Veja no vídeo abaixo:
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/30Prnc8lz7Q/mqdefault.webp?v=651c92fb&sqp=COSk8qgG&rs=AOn4CLCG3zO0gXA6kQV2RtLY7dPHeY_O5A)](https://youtu.be/30Prnc8lz7Q)
+![Descrição do GIF](webscraping-linkedin.gif)
 
 
 
